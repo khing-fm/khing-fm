@@ -1,6 +1,6 @@
 ![Paradigm-banner](https://user-images.githubusercontent.com/73504914/210301210-8d4df116-9b5c-4122-babe-b0b611b82f22.gif)
 
-#### I'm Adefemi Adelugba, a full-stack engineer in-training, passionate about creating user-centered web applications. With a programming background in HTML/CSS; currently, im undergoing training in full stack engineering at ALX Africa (ALX Afric)[https://alxafrica.com], I'm skilled in front-end development. I enjoy collaborating with cross-functional teams to deliver exceptional digital experiences that drive business value. I'm committed to staying up-to-date with technology trends and design techniques to create elegant and intuitive web-based applications.
+#### I'm Adefemi Adelugba, a full-stack engineer in-training, passionate about creating user-centered web applications. With a programming background in HTML/CSS; currently, im undergoing training in full stack engineering at ALX Africa [ALX Africa](https://alxafrica.com), I'm skilled in front-end development. I enjoy collaborating with cross-functional teams to deliver exceptional digital experiences that drive business value. I'm committed to staying up-to-date with technology trends and design techniques to create elegant and intuitive web-based applications.
 
 
 ## Skills
