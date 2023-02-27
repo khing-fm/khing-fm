@@ -13,23 +13,6 @@
 <a href="wa.link/k5b9sd" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-256.png" alt="khingfm" height="40" width="40" /></a>
 </p>
 
-
-## Stats, Languages and Tools
-<!--
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zluvsand&repo=github_profile"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khing-fm&label=Profile%20views&color=0e75b6&style=flat" alt="khing-fm" /> </p>
--->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khing-fm" alt="khing-fm" /></a> </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khing-fm&show_icons=true&locale=en" alt="khing-fm" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khing-fm&" alt="khing-fm" /></p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khing-fm&layout=compact&langs_count=14)](https://github.com/khing-fm/github-readme-stats)
-
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
