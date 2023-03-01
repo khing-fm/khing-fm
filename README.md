@@ -1,3 +1,6 @@
+<!--Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adefemi Adelugba-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2B94C3&width=435&lines=Hi+%F0%9F%91%8B+My+name+is+Adekunle+Abiodun;The+Future+%F0%9F%A4%94+.)](https://git.io/typing-svg)
+
 ![Paradigm-banner](https://user-images.githubusercontent.com/73504914/210301210-8d4df116-9b5c-4122-babe-b0b611b82f22.gif)
 
 #### I'm Adefemi Adelugba, a full-stack engineer in-training, passionate about creating user-centered web applications. With a programming background in HTML/CSS; currently, im undergoing training in full stack engineering at [ALX Africa](https://alxafrica.com), I'm skilled in front-end development. I enjoy collaborating with cross-functional teams to deliver exceptional digital experiences that drive business value. I'm committed to staying up-to-date with technology trends and design techniques to create elegant and intuitive web-based applications.
